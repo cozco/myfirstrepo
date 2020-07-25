@@ -2,5 +2,5 @@ package main
 
 //Adding a comment
 func main() {
-	practiceGit("Hi I'm testing working with Git")
+	practiceGit("Yeah I'm just writing a bunch of nonsense")
 }
