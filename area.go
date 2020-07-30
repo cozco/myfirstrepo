@@ -1,3 +1,6 @@
+/* This is a program for calculating the areas of shapes. It implements
+learning on interfaces and structs*/
+
 package main
 
 import "fmt"
